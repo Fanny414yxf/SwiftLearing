@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		8F7E39CC1C745DA7006BBD78 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7E39CB1C745DA7006BBD78 /* main.swift */; };
+		8F7E3A211C761593006BBD78 /* if和布尔.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7E3A201C761593006BBD78 /* if和布尔.swift */; };
+		8F7E3A231C77083C006BBD78 /* CollectionTypes-集合.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7E3A221C77083C006BBD78 /* CollectionTypes-集合.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,10 @@
 /* Begin PBXFileReference section */
 		8F7E39C81C745DA7006BBD78 /* Swift_基本数据类型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift_基本数据类型"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F7E39CB1C745DA7006BBD78 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		8F7E3A1A1C761534006BBD78 /* Swift_基本数据类型-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Swift_基本数据类型-Bridging-Header.h"; sourceTree = "<group>"; };
+		8F7E3A201C761593006BBD78 /* if和布尔.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "if和布尔.swift"; sourceTree = "<group>"; };
+		8F7E3A221C77083C006BBD78 /* CollectionTypes-集合.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CollectionTypes-集合.swift"; sourceTree = "<group>"; };
+		8F7E3A241C770D39006BBD78 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,10 @@
 			isa = PBXGroup;
 			children = (
 				8F7E39CB1C745DA7006BBD78 /* main.swift */,
+				8F7E3A201C761593006BBD78 /* if和布尔.swift */,
+				8F7E3A221C77083C006BBD78 /* CollectionTypes-集合.swift */,
+				8F7E3A241C770D39006BBD78 /* MyPlayground.playground */,
+				8F7E3A1A1C761534006BBD78 /* Swift_基本数据类型-Bridging-Header.h */,
 			);
 			path = "Swift_基本数据类型";
 			sourceTree = "<group>";
@@ -119,7 +129,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F7E3A211C761593006BBD78 /* if和布尔.swift in Sources */,
 				8F7E39CC1C745DA7006BBD78 /* main.swift in Sources */,
+				8F7E3A231C77083C006BBD78 /* CollectionTypes-集合.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -209,14 +221,21 @@
 		8F7E39D01C745DA7006BBD78 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Swift_基本数据类型/Swift_基本数据类型-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
 		8F7E39D11C745DA7006BBD78 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Swift_基本数据类型/Swift_基本数据类型-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -239,6 +258,7 @@
 				8F7E39D11C745DA7006BBD78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
