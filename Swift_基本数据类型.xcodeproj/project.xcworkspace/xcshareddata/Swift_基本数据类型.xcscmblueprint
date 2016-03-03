@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1D1B19691013B5B19E501218230FA9E56373772A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1D1B19691013B5B19E501218230FA9E56373772A" : 0,
+    "6793C63FAE2DCC9EBC597A7B5E19DD17B5DCAF2A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DDB75EE6-A9C0-42F1-B969-A8EEDA36DAC0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1D1B19691013B5B19E501218230FA9E56373772A" : "Swift_%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B\/",
+    "6793C63FAE2DCC9EBC597A7B5E19DD17B5DCAF2A" : "Swift_%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B\/Swift_%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Swift_基本数据类型",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Swift_基本数据类型.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Fanny414yxf\/SwiftLearning.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D1B19691013B5B19E501218230FA9E56373772A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:https:\/\/github.com\/Fanny414yxf\/SwiftLearning.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6793C63FAE2DCC9EBC597A7B5E19DD17B5DCAF2A"
+    }
+  ]
+}
