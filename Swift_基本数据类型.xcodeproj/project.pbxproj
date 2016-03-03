@@ -31,6 +31,10 @@
 		8F7E3A201C761593006BBD78 /* if和布尔.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "if和布尔.swift"; sourceTree = "<group>"; };
 		8F7E3A221C77083C006BBD78 /* CollectionTypes-集合.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CollectionTypes-集合.swift"; sourceTree = "<group>"; };
 		8F7E3A241C770D39006BBD78 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		8FB3ED151C7FE57F00702D77 /* MyPlaygroundString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlaygroundString.playground; sourceTree = "<group>"; };
+		8FB3ED161C7FFC4F00702D77 /* 控制流for while .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "控制流for while .playground"; sourceTree = "<group>"; };
+		8FD21D5D1C858501007E7630 /* Functions 函数.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Functions 函数.playground"; sourceTree = "<group>"; };
+		8FD21D5E1C86EBD4007E7630 /* 闭包Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "闭包Closures.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,10 @@
 				8F7E39CB1C745DA7006BBD78 /* main.swift */,
 				8F7E3A201C761593006BBD78 /* if和布尔.swift */,
 				8F7E3A221C77083C006BBD78 /* CollectionTypes-集合.swift */,
+				8FD21D5E1C86EBD4007E7630 /* 闭包Closures.playground */,
+				8FD21D5D1C858501007E7630 /* Functions 函数.playground */,
+				8FB3ED161C7FFC4F00702D77 /* 控制流for while .playground */,
+				8FB3ED151C7FE57F00702D77 /* MyPlaygroundString.playground */,
 				8F7E3A241C770D39006BBD78 /* MyPlayground.playground */,
 				8F7E3A1A1C761534006BBD78 /* Swift_基本数据类型-Bridging-Header.h */,
 			);
