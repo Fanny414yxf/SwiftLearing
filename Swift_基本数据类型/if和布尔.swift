@@ -7,3 +7,22 @@
 //
 
 import Foundation
+
+//类 类名 {}
+class Varandlet {
+    let imtrueVar = true
+    let imfalse = false
+    
+    
+    func dddddd() -> Void{
+    
+        if imtrueVar
+        {
+            print("这是我写的first function")
+        }
+        
+    }    
+ 
+}
+
+
