@@ -25,8 +25,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3615B0861D194C5200C3A38D /* Properties 属性.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Properties 属性.playground"; sourceTree = "<group>"; };
+		36C1D3981D1BCC0E00273D78 /* Methods 方法.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Methods 方法.playground"; sourceTree = "<group>"; };
 		8F5755FC1C96A4C30067FB7F /* ClassesAndStructures类和结构体.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "ClassesAndStructures类和结构体.playground"; sourceTree = "<group>"; };
-		8F5755FD1C98002D0067FB7F /* Properties属性.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Properties属性.playground"; sourceTree = "<group>"; };
 		8F7E39C81C745DA7006BBD78 /* Swift_基本数据类型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift_基本数据类型"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F7E39CB1C745DA7006BBD78 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8F7E3A1A1C761534006BBD78 /* Swift_基本数据类型-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Swift_基本数据类型-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -73,7 +74,8 @@
 				8F7E39CB1C745DA7006BBD78 /* main.swift */,
 				8F7E3A201C761593006BBD78 /* if和布尔.swift */,
 				8F7E3A221C77083C006BBD78 /* CollectionTypes-集合.swift */,
-				8F5755FD1C98002D0067FB7F /* Properties属性.playground */,
+				36C1D3981D1BCC0E00273D78 /* Methods 方法.playground */,
+				3615B0861D194C5200C3A38D /* Properties 属性.playground */,
 				8F5755FC1C96A4C30067FB7F /* ClassesAndStructures类和结构体.playground */,
 				8FD21D5F1C8974FC007E7630 /* Enumerations枚举.playground */,
 				8FD21D5E1C86EBD4007E7630 /* 闭包Closures.playground */,

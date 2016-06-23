@@ -149,7 +149,7 @@ arithmeticMean(3, 3, 3, 3, 3, 3)
 arithmeticMean(1.4, 2.0, 3, 4.1)
 
 //变量参数 
-func parameters(var par1: String, var par2: String, num: Int, cha: Character) {
+func parameters( par1: String, par2: String, num: Int, cha: Character) {
     print("有没有错")
 }
 parameters("fanny", par2: "lili", num: 5, cha:  "*")

@@ -218,3 +218,21 @@ var values = Array(dicbl.values)
 
 
 
+var fannynumber = [Int]()
+fannynumber = []
+fannynumber = [3, 4, 5, 5]
+
+
+
+//15228913262
+var rrrr = [Int]()
+rrrr = [6, 2, 5, 3, 8, 9, 1]
+var index = [Int]()
+index = [6, 2, 1, 1, 4, 5, 6, 3, 1, 0, 1]
+
+var tel = String()
+for i in index {
+   tel += String(rrrr[i])
+}
+print("fanny's tel is \(tel)")
+
